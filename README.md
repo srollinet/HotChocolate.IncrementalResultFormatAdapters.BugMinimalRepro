@@ -16,4 +16,4 @@ fragment ProductItemFragment on Product {
 ```
 
 With headers:
-- `Accept`: `application/json, multipart/mixed; incrementalSpec=v0.2`
+- `Accept`: `application/json, multipart/mixed; incrementalSpec=v0.1`
